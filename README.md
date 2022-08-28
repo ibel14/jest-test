@@ -1,4 +1,4 @@
-# Unit test for a function
+# Unit test on Jest
 This task is based on Javascript.
 Tests are executed using the Jest framework.
 
